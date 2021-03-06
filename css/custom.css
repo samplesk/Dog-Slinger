@@ -1,0 +1,31 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.navbar-brand img{
+    max-height: 80px;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.gallery-single-box{
+    width: 95%;
+    margin: 0 auto;
+}
+
+@media(max-width: 500px){
+    .inner-menu-select{
+        display: none;
+    }
+    .col-9 {
+        max-width: 100%;
+    }
+    .special-grid {
+        min-width: 100%;
+    }
+    .row{
+        justify-content: center;
+        
+    }
+}

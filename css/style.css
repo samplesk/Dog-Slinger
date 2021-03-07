@@ -359,7 +359,7 @@ button:focus{
 
 
 .qt-background{
-	background: url(../images/CHICAGO_DOG.jpg) no-repeat;
+	background: url(../images/pure\ black.jpg) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
@@ -367,11 +367,11 @@ button:focus{
 	position: relative;
 }
 .qt-background p {
-    font-size: 35px;
+    font-size: 45px;
     font-weight: 300;
     line-height: 44px;
-    color: #fff;
-	font-family: 'Rubik', sans-serif;
+    color: #fec30d;
+	font-family: Brush Script MT, Brush Script Std, cursive;
 	margin-bottom: 20px;
 }
 

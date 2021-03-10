@@ -400,7 +400,7 @@ button:focus{
 }
 .heading-title p{
 	font-size: 18px;
-	font-weight: 200;
+	font-weight: 300;
 	margin: 0px;
 }
 
@@ -409,7 +409,7 @@ button:focus{
 	background: #ff0000;
 }
 .inner-menu-box .nav-pills .nav-link{
-	font-size: 18px;
+	font-size: 20px;
 }
 .inner-menu-box .nav-pills .nav-link:hover{
 	background: #ff0000;
@@ -434,28 +434,30 @@ button:focus{
     right: 0;
     height: 100%;
     background: rgba(207, 166, 113, 0.9);
-    padding: 12px 12px;
+    padding: 10px 10px;
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
 }
 .why-text h4{
 	color: #ffffff;
-	font-size: 16px;
-	font-weight: 500;
+	font-size: 12px;
+	font-weight: 700;
 	font-family: 'Rubik', sans-serif;
+    padding-bottom: 2px;
 }
 .why-text p{
 	color: #ffffff;
-	font-size: 13px;
+	font-size: 12px;
+    font-weight: 400;
 	border-bottom: 1px dashed #010101;
 	margin: 0px;
-	padding-bottom: 15px;
+	padding-bottom: 5px;
 	margin-top: 0px;
-	margin-bottom: 15px;
+	margin-bottom: 5px;
 }
 .why-text h5{
-	font-size: 18px;
-	font-weight: 600;
+	font-size: 12px;
+	font-weight: 400;
 	color: #ffffff;
 }
 

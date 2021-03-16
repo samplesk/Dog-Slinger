@@ -240,7 +240,7 @@ button:focus{
 	font-size: 40px;
 }
 .slides-navigation a:hover {
-	background: #010101;
+	background: #ff0000;
 }
 .cover-slides .container{
 	height: 100%;
@@ -409,6 +409,7 @@ button:focus{
 }
 
 .inner-menu-box{}
+
 .inner-menu-box .nav-pills .nav-link.active{
 	background: #ff0000;
 }

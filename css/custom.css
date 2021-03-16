@@ -6,7 +6,12 @@
 }
 
 .navbar {
-    background-color: #000000;
+    background-color: #000000;  
+}
+
+.navbar-toggler{
+    background: #fec30d;
+	color: #ffffff; 
 }
 
 .gallery-single-box{

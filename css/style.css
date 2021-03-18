@@ -300,14 +300,16 @@ button:focus{
 }
 
 .cover-slides h1{
-	font-family: 'Rubik', sans-serif;
+	font-family: Brush Script MT, Brush Script Std, cursive;
 	font-weight: 500;
-	font-size: 64px;
+	font-size: 70px;
 	color: #fff;
 }
 .cover-slides p{
-	font-size: 18px;
+	font-size: 30px;
+    font-weight: 250;
 	color: #fff;
+    font-family: Brush Script MT, Brush Script Std, cursive;
 }
 .slides-pagination a{
 	border: 2px solid #ffffff;

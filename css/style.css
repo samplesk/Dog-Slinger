@@ -324,8 +324,8 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .about-section-box{
-	padding: 70px 0px;
-	background: #ffffff url(../images/about-bg.jpg) no-repeat bottom center;
+	padding: 60px 0px;
+	background: #ffffff url(../images/Josh-Thinking.jpg) no-repeat bottom center;
     background-image: linear-gradient(rgba(0, 0, 0, 0.089), rgba(0, 0, 0, 0.055));
 	background-size: cover;
 }
@@ -337,7 +337,7 @@ button:focus{
 }
 .inner-column h1{
 	font-family: 'Rubik', sans-serif;
-	font-size: 30px;
+	font-size: 40px;
 	color: #010101;
 	font-weight: 500;
 }
@@ -345,7 +345,7 @@ button:focus{
 	color: #ff0000;
 }
 .inner-column h4{
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 500;
 }
 .inner-column p{
@@ -358,6 +358,7 @@ button:focus{
 .inner-column .btn-outline-new-white:hover{
 	color: #ffffff;
 }
+
 
 /*------------------------------------------------------------------
     QT
@@ -400,15 +401,26 @@ button:focus{
 }
 .heading-title h2{
 	color: #010101;
-	font-size: 28px;
+	font-size: 40px;
 	font-family: 'Rubik', sans-serif;
 	font-weight: 500;
 }
+.heading-title h3{
+    color: #ff0000;
+	font-size: 24px;
+	font-weight: 450;
+	margin: 0px;
+    text-decoration: underline;
+}
+
 .heading-title p{
+    color: #010101;
 	font-size: 18px;
 	font-weight: 300;
 	margin: 0px;
 }
+
+
 
 .inner-menu-box{
 

@@ -306,8 +306,8 @@ button:focus{
 	color: #fff;
 }
 .cover-slides p{
-	font-size: 30px;
-    font-weight: 250;
+	font-size: 40px;
+    font-weight: 200;
 	color: #fff;
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
@@ -410,7 +410,9 @@ button:focus{
 	margin: 0px;
 }
 
-.inner-menu-box{}
+.inner-menu-box{
+
+}
 
 .inner-menu-box .nav-pills .nav-link.active{
 	background: #ff0000;
@@ -425,6 +427,7 @@ button:focus{
 
 .gallery-single{
 	margin-bottom: 30px;
+    object-fit: contain;
 }
 
 .gallery-single {
@@ -432,6 +435,7 @@ button:focus{
     overflow: hidden;
     -webkit-box-shadow: 0 0 10px #ccc;
     box-shadow: 0 0 10px #ccc;
+    object-fit: contain;
 }
 
 .why-text {
@@ -720,7 +724,7 @@ button:focus{
     font-size: 14px;
     line-height: 50px;
     padding: 0 10px;
-    float: left;
+    float: center;
 	font-weight: 300;
     width: 100%;
     transition: all 0.5s ease-in-out;
@@ -734,7 +738,7 @@ button:focus{
     line-height: 50px;
     display: inline-block;
     padding: 0 10px;
-    float: left;
+    float: center;
     width: 100%;
 	border: none;
 	cursor: pointer;
@@ -1371,30 +1375,3 @@ blockquote {
     transition: opacity 0.2s ease-out;
 	font-size: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

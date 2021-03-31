@@ -32,9 +32,11 @@
 }
 .slides-navigation a.prev {
   left: 0;
+  top: -55px;
 }
 .slides-navigation a.next {
   right: 0;
+  top: -55px;
 }
 
 .slides-pagination {

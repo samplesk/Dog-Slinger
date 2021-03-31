@@ -3,6 +3,7 @@
 -------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -300,16 +301,16 @@ button:focus{
 }
 
 .cover-slides h1{
-	font-family: Brush Script MT, Brush Script Std, cursive;
-	font-weight: 500;
-	font-size: 70px;
+	font-family: 'Alex Brush', cursive;
+	font-weight: 300;
+	font-size: 90px;
 	color: #fff;
 }
 .cover-slides p{
 	font-size: 40px;
-    font-weight: 200;
+    font-weight: 400;
 	color: #fff;
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: 'Rubik', sans-serif;
 }
 .slides-pagination a{
 	border: 2px solid #ffffff;
@@ -375,10 +376,10 @@ button:focus{
 }
 .qt-background p {
     font-size: 45px;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 44px;
     color: #fec30d;
-	font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: 'Alex Brush', cursive;
 	margin-bottom: 20px;
 }
 

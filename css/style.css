@@ -307,10 +307,10 @@ button:focus{
 	color: #fff;
 }
 .cover-slides p{
-    font-family: 'Rubik', sans-serif;
-	font-size: 50px;
+	font-size: 40px;
     font-weight: 400;
 	color: #fff;
+    font-family: 'Rubik', sans-serif;
 }
 .slides-pagination a{
 	border: 2px solid #ffffff;
@@ -683,13 +683,13 @@ button:focus{
 .footer-area h3{
 	color: #ffffff;
 	text-transform: uppercase;
-	font-size: 18px;
-	font-weight: 500;
+	font-size: 20px;
+	font-weight: 550;
 	border-bottom: 2px solid rgba(207, 166, 113, 0.5);
 	margin-bottom: 10px;
 }
 .footer-area p{
-	font-size: 15px;
+	font-size: 18px;
 	color: rgba(255, 255, 255, 0.8);
 	margin: 0;
 	padding-bottom: 10px;
@@ -708,7 +708,6 @@ button:focus{
 	font-size: 50px;
 	line-height: 60px;
 }
-
 
 .footer-area p.lead{
 	font-size: 19px;
@@ -773,7 +772,6 @@ button:focus{
     margin: 0px;
     margin-top: 20px;
     float: center;
-    text-align: center;
 }
 .f-social li a {
     font-size: 18px;

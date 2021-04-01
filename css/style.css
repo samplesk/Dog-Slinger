@@ -769,9 +769,11 @@ button:focus{
 }
 
 .f-social {
-    padding-bottom: 10px;
+    padding-bottom: 10px;.
     margin: 0px;
     margin-top: 20px;
+    float: center;
+    text-align: center;
 }
 .f-social li a {
     font-size: 18px;

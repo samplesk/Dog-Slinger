@@ -307,10 +307,10 @@ button:focus{
 	color: #fff;
 }
 .cover-slides p{
-	font-size: 40px;
+    font-family: 'Rubik', sans-serif;
+	font-size: 50px;
     font-weight: 400;
 	color: #fff;
-    font-family: 'Rubik', sans-serif;
 }
 .slides-pagination a{
 	border: 2px solid #ffffff;

@@ -409,7 +409,7 @@ button:focus{
 }
 .heading-title h3{
     color: #ff0000;
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 450;
 	margin: 0px;
     text-decoration: underline;
@@ -417,12 +417,10 @@ button:focus{
 
 .heading-title p{
     color: #010101;
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: 300;
 	margin: 0px;
 }
-
-
 
 .inner-menu-box{
 
@@ -472,7 +470,7 @@ button:focus{
 }
 .why-text p{
 	color: #ffffff;
-	font-size: 12px;
+	font-size: 11px;
     font-weight: 400;
 	border-bottom: 1px dashed #010101;
 	margin: 0px;
@@ -481,13 +479,19 @@ button:focus{
 	margin-bottom: 5px;
 }
 .why-text h5{
-	font-size: 12px;
+	font-size: 11px;
 	font-weight: 400;
 	color: #ffffff;
 }
 
 .gallery-single:hover .why-text{
 	bottom: 0px;
+}
+
+.why-text2 h4{
+	font-size: 8px;
+	font-weight: 300;
+	color: #ffffff;
 }
 
 

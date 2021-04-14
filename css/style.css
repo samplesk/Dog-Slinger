@@ -467,7 +467,7 @@ button:focus{
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
 }
-.why-text h4{
+.why-text h5{
 	color: #ffffff;
 	font-size: 12px;
 	font-weight: 700;

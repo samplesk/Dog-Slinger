@@ -21,9 +21,7 @@
 }
 
 @media(max-width: 500px){
-    .inner-menu-select{
-        display: none;
-    }
+
     .col-9 {
         max-width: 100%;
     }

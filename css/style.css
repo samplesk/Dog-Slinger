@@ -414,6 +414,14 @@ button:focus{
 	margin: 0px;
     text-decoration: underline;
 }
+
+.heading-title p{
+    color: #010101;
+	font-size: 22px;
+	font-weight: 500;
+	margin: 0px;
+}
+
 .heading-title h4{
     color: #ff0000;
 	font-size: 22px;
@@ -421,12 +429,7 @@ button:focus{
 	font-weight: 500;
 }
 
-.heading-title p{
-    color: #010101;
-	font-size: 20px;
-	font-weight: 300;
-	margin: 0px;
-}
+
 
 .inner-menu-box{
 

@@ -430,21 +430,20 @@ button:focus{
 }
 
 
-
-.inner-menu-box{
-
-}
-
 .inner-menu-box .nav-pills .nav-link.active{
 	background: #ff0000;
 }
 .inner-menu-box .nav-pills .nav-link{
 	font-size: 20px;
+    font-weight: 450;
+	margin: 0px;
 }
 .inner-menu-box .nav-pills .nav-link:hover{
 	background: #ff0000;
 	color: #ffffff;
 }
+
+
 
 .gallery-single{
 	margin-bottom: 30px;
